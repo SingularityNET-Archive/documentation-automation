@@ -1,6 +1,6 @@
 # docs/_config.yml
-title: Documentation Automation
-description: Automate the deployment of your documentation to GitHub Pages using GitHub Actions.
+title: Documentation Automation # Replace with your title
+description: Automate deployment of your documentation to GitHub Pages using GitHub Actions. # Replace with your description
 theme: just-the-docs
 
 # Build settings
@@ -9,7 +9,7 @@ remote_theme: just-the-docs/just-the-docs
 
 # Set the base URL to match your GitHub Pages URL
 baseurl: "/documentation-automation"  # Replace with your repository name
-url: "https://SingularityNET-Archive.github.io"
+url: "https://SingularityNET-Archive.github.io" # Replace with your GitHub Pages URL
 
 # Enable or disable the site search
 search_enabled: true
@@ -17,7 +17,7 @@ search_enabled: true
 # Aux links for the upper right navigation
 aux_links:
   "GitHub":
-    - "https://github.com/SingularityNET-Archive/documentation-automation"
+    - "https://github.com/SingularityNET-Archive/documentation-automation" # Replace with your repository URL
 
 # Color scheme
 color_scheme: light
