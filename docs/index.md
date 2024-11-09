@@ -19,7 +19,7 @@ This automation system allows you to:
 
 ## Quick Start
 
-1. [Template repo](https://github.com/new?template_name=documentation-automation&template_owner=SingularityNET-Archive)
+1. To create new repo using this template click - [Use Template](https://github.com/new?template_name=documentation-automation&template_owner=SingularityNET-Archive)
 2. Enter Repo name, description and create repo
 3. Enable GitHub Pages in your repository settings
    - Go to your repository settings on GitHub
@@ -58,6 +58,7 @@ docs/
     ├── index.md
     ├── repository-setup.md
     └── github-actions-setup.md
+├── troubleshooting.md
 └── writing-docs.md
 ```
 

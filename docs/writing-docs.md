@@ -27,6 +27,7 @@ docs/
    ---
    title: Page Title
    layout: default
+   parent: Parent Folder Name # Only use if page has parent folder
    nav_order: 1
    ---
    ```
