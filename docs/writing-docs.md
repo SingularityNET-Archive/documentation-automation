@@ -1,3 +1,9 @@
+---
+layout: default
+title: Writing Documentation
+nav_order: 5
+---
+
 # Writing Documentation
 <!-- writing-docs.md -->
 

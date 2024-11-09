@@ -1,3 +1,9 @@
+---
+layout: default
+title: Testing Deployment
+nav_order: 6
+---
+
 # Testing and Deployment
 <!-- testing-deployment.md -->
 
