@@ -2,6 +2,14 @@
 
 A template for automatically deploying documentation to GitHub Pages using GitHub Actions. This template uses Just the Docs theme and GitHub Actions for automated builds and deployments.
 
+## Quick Start
+
+If you already created a new repo with this template, skip to [Setup Steps](#setup-steps)
+
+[![Use this template](https://img.shields.io/badge/Use%20this%20template-2ea44f?style=for-the-badge)](https://github.com/SingularityNET-Archive/documentation-automation/generate)
+
+Click the "Use this template" button above or use the badge to create a new repository from this template.
+
 ## Features
 
 - 🚀 Automatic deployment to GitHub Pages
