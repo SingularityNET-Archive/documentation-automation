@@ -2,7 +2,6 @@
 title: Setup Guide
 layout: default
 nav_order: 2
-has_children: true
 ---
 
 # Documentation Setup Guide

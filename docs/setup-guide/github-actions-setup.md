@@ -1,7 +1,7 @@
 ---
 layout: default
 title: GitHub Actions Setup
-parent: setup
+parent: Setup Guide
 nav_order: 3
 ---
 

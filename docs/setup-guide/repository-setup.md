@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Repository Setup
-parent: setup
+parent: Setup Guide
 nav_order: 2
 ---
 
