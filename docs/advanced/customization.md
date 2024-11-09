@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Contributors API
+title: Customization
 nav_order: 5
 ---
 
-# Contributors API
+# Customization
 

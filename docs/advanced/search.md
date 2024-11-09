@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Wallet Collector API
+title: Search
 nav_order: 4
 ---
 
-# Wallet Data API
+# Search
 

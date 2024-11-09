@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Recognitions API
+title: Navigation
 nav_order: 3
 ---
 
-# Recognition API
+# Navigation
 
