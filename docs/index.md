@@ -29,28 +29,28 @@ This automation system allows you to:
 
 Follow these guides in order for a complete setup:
 
-1. [Repository Setup](/documentation-automation/setup-guide/repository-setup.md)
+1. [Repository Setup](/documentation-automation/setup-guide/repository-setup)
    - Creating the required folder structure
    - Initial repository configuration
    - Required files overview
 
-2. [GitHub Actions Configuration](/documentation-automation/setup-guide/github-actions-setup.md)
+2. [GitHub Actions Configuration](/documentation-automation/setup-guide/github-actions-setup)
    - Understanding the workflow file
    - Configuring deployment triggers
    - Setting up required permissions
 
-3. [Jekyll Configuration](/documentation-automation/setup-guide/jekyll-setup.md)
+3. [Jekyll Configuration](/documentation-automation/setup-guide/jekyll-setup)
    - Installing required dependencies
    - Configuring the theme
    - Custom styling options
 
-4. [Writing Documentation](/documentation-automation/writing-docs.md)
+4. [Writing Documentation](/documentation-automation/writing-docs)
    - Markdown file structure
    - Adding navigation
    - Including assets
    - Best practices
 
-5. [Testing and Deployment](/documentation-automation/testing-deployment.md)
+5. [Testing and Deployment](/documentation-automation/testing-deployment)
    - Local testing
    - Deployment verification
    - Troubleshooting common issues
@@ -81,7 +81,7 @@ docs/
 
 ## Next Steps
 
-1. Start with [Repository Setup](/documentation-automation/setup-guide/repository-setup.md) to create the basic structure
+1. Start with [Repository Setup](/documentation-automation/setup-guide/repository-setup) to create the basic structure
 2. Follow each guide in sequence
 3. Check [Troubleshooting](testing-deployment.md#troubleshooting) if you encounter issues
 

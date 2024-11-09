@@ -53,4 +53,4 @@ docs/
    ```
    ````
 
-[← Jekyll Setup](jekyll-setup.md) | [Testing and Deployment →](testing-deployment.md)
+[← Jekyll Setup](/documentation-automation/setup-guide/jekyll-setup) | [Testing and Deployment →](testing-deployment.md)

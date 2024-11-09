@@ -56,4 +56,4 @@ your-repository/
    - Set up branch protection rules
    - Configure required status checks
 
-[← Back to Getting Started](index.md) | [GitHub Actions Setup →](github-actions-setup.md)
+[← Back to Setup Page](index.md) | [GitHub Actions Setup →](github-actions-setup.md)
