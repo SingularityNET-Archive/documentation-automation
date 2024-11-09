@@ -19,11 +19,15 @@ This automation system allows you to:
 
 ## Quick Start
 
-1. [Fork or clone this repository](https://github.com/SingularityNET-Archive/documentation-automation)
-2. Enable GitHub Pages in your repository settings
-3. Update `docs/_config.yml` with your repository information
-4. Add markdown files to the `docs` folder
-5. Push to main branch and watch your documentation deploy!
+1. [Template repo](https://github.com/new?template_name=documentation-automation&template_owner=SingularityNET-Archive)
+2. Enter Repo name, description and create repo
+3. Enable GitHub Pages in your repository settings
+   - Go to your repository settings on GitHub
+   - Navigate to the "Pages" section
+   - Under "Source", select "GitHub Actions"
+4. Update `docs/_config.yml` with your repository information
+5. Add markdown files to the `docs` folder
+6. Push to main branch and watch your documentation deploy!
 
 ## Detailed Setup Guides
 
