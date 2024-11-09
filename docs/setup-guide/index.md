@@ -34,17 +34,6 @@ Configure automated deployment using GitHub Actions.
 
 **Time estimate:** 10-15 minutes
 
-### 3. [Jekyll Setup](jekyll-setup.md)
-Configure Jekyll for documentation generation.
-
-**Key steps:**
-- Install required dependencies
-- Configure Jekyll theme
-- Set up site configuration
-- Configure search and navigation
-
-**Time estimate:** 15-20 minutes
-
 ## Prerequisites
 
 Before starting the setup process, ensure you have:
@@ -61,7 +50,6 @@ Use this checklist to track your progress:
 - [ ] Create repository structure
 - [ ] Configure GitHub repository settings
 - [ ] Set up GitHub Actions workflow
-- [ ] Configure Jekyll
 - [ ] Test local build
 - [ ] Verify deployment
 

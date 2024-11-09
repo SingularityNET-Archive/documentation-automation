@@ -39,18 +39,13 @@ Follow these guides in order for a complete setup:
    - Configuring deployment triggers
    - Setting up required permissions
 
-3. [Jekyll Configuration](/documentation-automation/setup-guide/jekyll-setup)
-   - Installing required dependencies
-   - Configuring the theme
-   - Custom styling options
-
-4. [Writing Documentation](/documentation-automation/writing-docs)
+3. [Writing Documentation](/documentation-automation/writing-docs)
    - Markdown file structure
    - Adding navigation
    - Including assets
    - Best practices
 
-5. [Testing and Deployment](/documentation-automation/testing-deployment)
+4. [Testing and Deployment](/documentation-automation/testing-deployment)
    - Local testing
    - Deployment verification
    - Troubleshooting common issues
@@ -61,9 +56,9 @@ Follow these guides in order for a complete setup:
 docs/
 ├── index.md (this file)
 └── setup-guide/
+    ├── index.md
     ├── repository-setup.md
-    ├── github-actions-setup.md
-    └── jekyll-setup.md
+    └── github-actions-setup.md
 ├── writing-docs.md
 ├── testing-deployment.md
 └── advanced/

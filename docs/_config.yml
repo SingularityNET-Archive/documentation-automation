@@ -20,7 +20,7 @@ aux_links:
     - "https://github.com/SingularityNET-Archive/documentation-automation"
 
 # Color scheme
-color_scheme: dark
+color_scheme: light
 
 # Enable collect for search functionality
 search:
