@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Jekyll Setup
+parent: setup
 nav_order: 4
 ---
 
