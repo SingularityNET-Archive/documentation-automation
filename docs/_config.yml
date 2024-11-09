@@ -1,5 +1,5 @@
 # docs/_config.yml
-title: Documentation Deployment Automation
+title: Documentation Automation
 description: Automate the deployment of your documentation to GitHub Pages using GitHub Actions.
 theme: just-the-docs
 

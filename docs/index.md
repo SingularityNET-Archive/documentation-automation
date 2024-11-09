@@ -19,7 +19,7 @@ This automation system allows you to:
 
 ## Quick Start
 
-1. [Fork or clone this repository](#)
+1. [Fork or clone this repository](https://github.com/SingularityNET-Archive/documentation-automation)
 2. Enable GitHub Pages in your repository settings
 3. Update `docs/_config.yml` with your repository information
 4. Add markdown files to the `docs` folder
@@ -29,28 +29,28 @@ This automation system allows you to:
 
 Follow these guides in order for a complete setup:
 
-1. [Repository Setup](repository-setup.md)
+1. [Repository Setup](/documentation-automation/setup-guide/repository-setup.md)
    - Creating the required folder structure
    - Initial repository configuration
    - Required files overview
 
-2. [GitHub Actions Configuration](github-actions-setup.md)
+2. [GitHub Actions Configuration](/documentation-automation/setup-guide/github-actions-setup.md)
    - Understanding the workflow file
    - Configuring deployment triggers
    - Setting up required permissions
 
-3. [Jekyll Configuration](jekyll-setup.md)
+3. [Jekyll Configuration](/documentation-automation/setup-guide/jekyll-setup.md)
    - Installing required dependencies
    - Configuring the theme
    - Custom styling options
 
-4. [Writing Documentation](writing-docs.md)
+4. [Writing Documentation](/documentation-automation/writing-docs.md)
    - Markdown file structure
    - Adding navigation
    - Including assets
    - Best practices
 
-5. [Testing and Deployment](testing-deployment.md)
+5. [Testing and Deployment](/documentation-automation/testing-deployment.md)
    - Local testing
    - Deployment verification
    - Troubleshooting common issues
@@ -60,9 +60,10 @@ Follow these guides in order for a complete setup:
 ```
 docs/
 ├── index.md (this file)
-├── repository-setup.md
-├── github-actions-setup.md
-├── jekyll-setup.md
+└── setup-guide/
+    ├── repository-setup.md
+    ├── github-actions-setup.md
+    └── jekyll-setup.md
 ├── writing-docs.md
 ├── testing-deployment.md
 └── advanced/
@@ -80,8 +81,8 @@ docs/
 
 ## Next Steps
 
-1. Start with [Repository Setup](repository-setup.md) to create the basic structure
+1. Start with [Repository Setup](/documentation-automation/setup-guide/repository-setup.md) to create the basic structure
 2. Follow each guide in sequence
 3. Check [Troubleshooting](testing-deployment.md#troubleshooting) if you encounter issues
 
-For advanced customization and features, check the [Advanced Topics](advanced/) section.
+For advanced customization and features, check the [Advanced Topics](/documentation-automation/advanced/) section.

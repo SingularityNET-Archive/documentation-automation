@@ -12,7 +12,7 @@ This section walks you through the complete setup process for automated document
 
 The setup process is divided into three main stages:
 
-### 1. [Repository Setup](repo-setup.md)
+### 1. [Repository Setup](repository-setup.md)
 Set up your GitHub repository with the correct structure and configurations.
 
 **Key steps:**
@@ -23,7 +23,7 @@ Set up your GitHub repository with the correct structure and configurations.
 
 **Time estimate:** 15-20 minutes
 
-### 2. [GitHub Actions Setup](action-setup.md)
+### 2. [GitHub Actions Setup](github-actions-setup.md)
 Configure automated deployment using GitHub Actions.
 
 **Key steps:**
