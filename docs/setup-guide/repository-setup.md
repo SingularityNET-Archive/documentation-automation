@@ -15,18 +15,21 @@ First, you'll need to create the following folder structure in your repository:
 
 ```
 your-repository/
+├── .github/
+│   └── workflows/
+│       └── deploy-docs.yml
 ├── docs/
 │   ├── _config.yml
 │   ├── Gemfile
 │   ├── index.md
 │   ├── setup-guide/
+│   │   ├── index.md
+│   │   ├── repository-setup.md
+│   │   └── github-actions-setup.md
 │   ├── writing-docs.md
-│   ├── testing-deployment.md
-│   └── advanced/
-├── .github/
-│   └── workflows/
-│       └── deploy-docs.yml
-└── .gitignore
+│   └── testing-deployment.md
+├── .gitignore
+└── README.md
 ```
 
 ## Step-by-Step Setup

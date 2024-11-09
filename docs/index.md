@@ -49,11 +49,6 @@ Follow these guides in order for a complete setup:
    - Including assets
    - Best practices
 
-4. [Testing and Deployment](/documentation-automation/testing-deployment)
-   - Local testing
-   - Deployment verification
-   - Troubleshooting common issues
-
 ## File Structure
 
 ```
@@ -63,12 +58,7 @@ docs/
     ├── index.md
     ├── repository-setup.md
     └── github-actions-setup.md
-├── writing-docs.md
-├── testing-deployment.md
-└── advanced/
-    ├── customization.md
-    ├── navigation.md
-    └── search.md
+└── writing-docs.md
 ```
 
 ## Requirements
@@ -82,6 +72,6 @@ docs/
 
 1. Start with [Repository Setup](/documentation-automation/setup-guide/repository-setup) to create the basic structure
 2. Follow each guide in sequence
-3. Check [Troubleshooting](testing-deployment.md#troubleshooting) if you encounter issues
+3. Check [Troubleshooting](troubleshooting.md#common-issues) if you encounter issues
 
-For advanced customization and features, check the [Advanced Topics](/documentation-automation/advanced/) section.
+For advanced customization and features, check the [just-the-docs documentation](https://just-the-docs.github.io/just-the-docs/)
