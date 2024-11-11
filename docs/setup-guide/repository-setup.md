@@ -21,11 +21,6 @@ This guide will walk you through setting up your documentation automation system
    - Name your repository
    - Choose public or private visibility
    - Click "Create repository from template"
-   - Clone your new repository to your local machine:
-     ```bash
-     git clone https://github.com/your-username/your-repository.git
-     cd your-repository
-     ```
 
 The template includes the following pre-configured structure:
 
