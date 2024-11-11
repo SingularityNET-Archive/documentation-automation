@@ -9,6 +9,24 @@ nav_order: 3
 
 ## Documentation Guidelines
 
+### Front Matter
+
+Front matter is a section of YAML code at the beginning of each Markdown file that defines metadata and configuration settings for that page. It's placed at the very top of the file between triple-dashed lines (`---`). Jekyll uses this metadata to:
+- Control page layout and appearance
+- Set navigation structure and order
+- Define relationships between pages
+- Configure page-specific settings
+
+For example:
+```yaml
+---
+title: Page Title      # Sets the page title in navigation and browser tab
+layout: default       # Defines which layout template to use
+parent: Parent Page   # Creates hierarchical navigation structure
+nav_order: 1         # Controls the order in navigation menus
+---
+```
+
 ### File Organization
 
 Organize your documentation files logically:
@@ -22,7 +40,7 @@ docs/
 
 ### Markdown Best Practices
 
-1. **Front Matter**
+1. **Front Matter Template**
    ```yaml
    ---
    title: Page Title

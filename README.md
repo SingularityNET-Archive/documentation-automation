@@ -57,5 +57,7 @@ Click the "Use this template" button above or use the badge to create a new repo
 
 Start adding your documentation in the `docs` folder using markdown files. Any push to the main branch will automatically trigger a new build and deployment.
 
+You can use this app to preview markdown - [stackedit.io](https://stackedit.io/app#)
+
 ---
 ⭐️ If you find this template helpful, don't forget to star it!

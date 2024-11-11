@@ -66,7 +66,7 @@ docs/
 
 - GitHub account with repository access
 - Basic understanding of Git
-- Text editor for markdown files ([Stack Edit](https://stackedit.io/))
+- Text editor for markdown files ([stackedit.io](https://stackedit.io/app#))
 
 ## Next Steps
 
