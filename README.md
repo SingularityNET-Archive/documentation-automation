@@ -2,6 +2,8 @@
 
 A template for automatically deploying documentation to GitHub Pages using GitHub Actions. This template uses Just the Docs theme and GitHub Actions for automated builds and deployments.
 
+Deployed docs folder [here](https://singularitynet-archive.github.io/documentation-automation/)
+
 ## Quick Start
 
 If you already created a new repo with this template, skip to [Setup Steps](#setup-steps)
@@ -50,15 +52,6 @@ Click the "Use this template" button above or use the badge to create a new repo
    - Once complete, your documentation will be available at:
      `https://your-username.github.io/your-repository-name/`
 
-## Local Testing (Optional)
-
-If you want to test locally before pushing:
-```bash
-cd docs
-bundle install
-bundle exec jekyll serve
-```
-Visit `http://localhost:4000/your-repository-name/`
 
 ## Documentation
 

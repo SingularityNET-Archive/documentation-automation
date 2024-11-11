@@ -163,12 +163,6 @@ The workflow uses several environment variables:
 
 2. Check workflow logs in GitHub Actions tab
 
-3. Validate local build:
-   ```bash
-   cd docs
-   bundle install
-   bundle exec jekyll build
-   ```
 
 ## Advanced Configuration
 
@@ -196,8 +190,7 @@ The workflow uses several environment variables:
 ## Next Steps
 
 After configuring GitHub Actions:
-1. Proceed to [Test Deployment](../testing-deployment.md)
-2. Test the complete deployment pipeline
-3. Add your documentation content
+1. Proceed to [Writing docs](../writing-docs.md)
+2. Add your documentation content
 
 Remember to check the workflow status after each significant change to ensure proper deployment.

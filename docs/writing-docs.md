@@ -16,7 +16,7 @@ Organize your documentation files logically:
 docs/
 ├── index.md          # Home page
 ├── guides/           # User guides
-├── reference/        # API reference
+├── reference/        # Reference
 └── tutorials/        # Step-by-step tutorials
 ```
 

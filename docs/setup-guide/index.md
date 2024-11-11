@@ -41,7 +41,6 @@ Before starting the setup process, ensure you have:
 - A GitHub account with repository creation permissions
 - Git installed on your local machine
 - A text editor for editing configuration files
-- Ruby installed (for local testing)
 
 ## Setup Checklist
 
@@ -50,7 +49,6 @@ Use this checklist to track your progress:
 - [ ] Create repository structure
 - [ ] Configure GitHub repository settings
 - [ ] Set up GitHub Actions workflow
-- [ ] Test local build
 - [ ] Verify deployment
 
 ## Getting Help
@@ -58,8 +56,7 @@ Use this checklist to track your progress:
 If you encounter issues during setup:
 
 1. Check the troubleshooting section in each guide
-2. Review the [Testing and Deployment](../testing-deployment.md) guide
-3. Create an issue in the GitHub repository
+2. Create an issue in the GitHub repository
 
 ## Next Steps
 
